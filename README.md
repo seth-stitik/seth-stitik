@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://seth-stitik.github.io">
+    <img src="https://img.shields.io/badge/View_Full_Profile-seth--stitik.github.io-36BCF7?style=for-the-badge&labelColor=0d1117" />
+  </a>
+</div>
+
 <h1 align="center">Hey, I'm <span style="color:#36BCF7">Seth</span> 👋</h1>
 
 <p align="center">
