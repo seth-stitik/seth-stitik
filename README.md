@@ -1,35 +1,42 @@
-<h1 align="center">Hey, I'm Seth 👋</h1>
+<h1 align="center">Hey, I'm <span style="color:#36BCF7">Seth</span> 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> • Logistics Tech • Creative Builder
+  <b>Full Stack Developer</b> &nbsp;·&nbsp; Logistics Tech &nbsp;·&nbsp; Creative Builder
 </p>
 
 <p align="center">
-  Building software that solves real business problems.<br/>
-  Creating experiences that people remember.
+  <img src="https://img.shields.io/badge/📍_Hampton_Roads,_VA-%23181C25?style=flat-square&logoColor=36BCF7&color=0d1117&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Tenet_TMS-building-%2336BCF7?style=flat-square&color=0d1117&labelColor=36BCF7" />
+  <img src="https://img.shields.io/badge/Freelance-open-%2369ff47?style=flat-square&color=0d1117&labelColor=69ff47" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Tenet+TMS;Freelance+Web+Developer;Music+%26+Lighting+Tech;Always+Learning+Always+Shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1800&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Tenet+TMS;Freelance+Web+Developer;Music+%26+Lighting+Tech;Always+Learning.+Always+Shipping." />
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-* Full stack developer working in the **logistics sector**
-* Currently building and improving **Tenet TMS**
-* Built a custom **Transportation Management System** for a local logistics company
-* Freelance developer creating websites for medium-large businesses in **Hampton Roads, Virginia**
-* Passionate about blending technology + creativity
+| | |
+|---|---|
+| 🚚 | Full stack dev working in **logistics tech** — building systems that run real operations |
+| 🏗️ | Currently developing & scaling **[Tenet TMS](https://github.com/seth-stitik)** from the ground up |
+| 🌐 | Freelance dev for medium-large businesses across **Hampton Roads, VA** |
+| 🎛️ | DJ, DMX lighting programmer, working with **@disco_dunes** on their sunset series |
+| 💙💛 | Boca Juniors supporter · Snowboarder · West Coast & South America traveler |
 
 ---
 
 ## 🛠 Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,vercel,ts,tailwind" />
 </p>
+
+```
+React · Next.js · Node.js · PostgreSQL · Vercel · TypeScript · Tailwind
+```
 
 ---
 
@@ -37,17 +44,16 @@
 
 ### 🚚 Logistics Platforms
 
-* Custom TMS built for real-world operations
-* Currently developing and scaling **Tenet TMS**
+> **Tenet TMS** — Transportation management system built for real-world operations. Currently scaling.
+
+> **Custom TMS** — End-to-end system built for a local logistics company. Replaced legacy workflows with modern full-stack architecture.
 
 ### 🌐 Business Websites
 
-* wavelengthentertainment.co
-* houserevivalproject.com *(in progress)*
-
-### ⚡ Local Development
-
-Helping businesses modernize their web presence with clean, high-converting sites.
+| Project | Status |
+|---|---|
+| [wavelengthentertainment.co](http://wavelengthentertainment.co) | ✅ Live |
+| [houserevivalproject.com](http://houserevivalproject.com) | 🔨 In Progress |
 
 ---
 
@@ -57,33 +63,26 @@ Helping businesses modernize their web presence with clean, high-converting site
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=seth-stitik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seth-stitik&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=seth-stitik&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎵 Outside of Code
+## 🎧 Outside the Terminal
 
-* DJ / Electronic music enthusiast
-* Occasionally land a gig when the stars align
-* Learning **DMX lighting programming**
-* Working with friends at **@disco_dunes** for their sunset series at the Delta Hotel
-
----
-
-## 🌎 Fun Facts
-
-* Huge **Boca Juniors** supporter 💙💛
-* Love snowboarding 🏂
-* Love travel, especially the **West Coast USA** + **South America**
-* Dream destinations: **Maldives** or **Fiji**
+```
+🎧  DJ / electronic music enthusiast
+💡  Learning DMX lighting programming (ArtNet, QLab)
+🌅  Sunset series with @disco_dunes at the Delta Hotel
+🏂  Snowboarding whenever possible
+🌎  West Coast USA + South America > everywhere else
+🏝️  Dream destinations: Maldives or Fiji
+💙  Lifelong Boca Juniors supporter
+```
 
 ---
-
-## 📍 Hampton Roads, Virginia
 
 <p align="center">
-  Building locally. Thinking globally.
+  <code>📍 Hampton Roads, Virginia &nbsp;·&nbsp; Building locally. Thinking globally.</code>
 </p>
