@@ -17,20 +17,74 @@ Y88b  d88P Y8b.     Y88b.  888  888      Y88b  d88P Y88b.  888 Y88b.  888 888 "8
                           /'\_   _/`\
                           \___)=(___/
 ```
-I do things, lots of things.
+# I do things. Lots of things.
 
-I was born on the coast of Virginia, just south of Cape Henry. I grew up playing ice hockey and surfing - a weird combo. Later, I ~~fell in love with~~ became obsessed with snowboarding and being in the mountains. At 13 I was obsessed with learning about exploits and hardware mods on the now ancient Xbox 360, and even wrote my first '[publishing](https://www.se7ensins.com/forums/threads/how-to-add-a-computer-fan-to-xbox-360.895555/)' at 15. That's I guess where I got my first hit of programming. By 18 I wanted to be a pro-snowboarder. I was pretty good but not that good.
+I was born on the coast of Virginia, just south of Cape Henry. I grew up playing ice hockey and surfing — a weird combo. Later, I ~~fell in love with~~ became obsessed with snowboarding and being in the mountains.
 
-I gave college a shot at West Virginia University. If you know about Morgantown, then you probably can understand I didn't last too long. I got an associates with business at community, gave IT another shot at university (Old Dominion), then COVID! I gave up on school, I put so much of my hard earned money and it wasn't what I needed to be successful. I turned to learning code on my own.
+At 13, I was obsessed with learning about exploits and hardware mods for the now-ancient Xbox 360. At 15, I even wrote my first [“publication”](https://www.se7ensins.com/forums/threads/how-to-add-a-computer-fan-to-xbox-360.895555/) — a tutorial on adding computer fans to an Xbox 360 to prevent the infamous RROD. I guess that was my first real hit of programming, hardware, and figuring out how things worked under the hood.
 
-During quarantine, I learned code on my own. Well, I guess what you needed to know. I learned the terminal, I learned frameworks, concepts, data structures. Hell, I remember when I learned HTML and thought I was a l33t hacker finally from my junior Xbox days. It was like I was a kid again. Ahh ..the good old days.
+By 18, I wanted to be a professional snowboarder. I was pretty good.
 
-And look at me now. I got a good stack under my belt. Most of my work these days lives somewhere around TypeScript, React, Next.js, Node, PostgreSQL, APIs, and cloud infrastructure. I've worked in logistics tech, built software for local businesses and nonprofits, and now run Tidewater Digital, where I build websites and custom software for organizations around Hampton Roads and beyond. And though I still hate syntax and learning it, I love understanding how everything works under the hood. I get my fix from organizing and stream-lining data more efficiently.
+Just not *that* good.
 
-But in the midst of my fascination with _mainly_ web development, or just software development in general.. here we are in the age of AI. Do I love vibe-coding? Yes. And any dev who _does_ tell you they **don't** vibe-code is lying and not to be trusted. There's a difference between total utter shit AI slop written by someone who knows nothing about* software development **vs.** a developer who knows a thing or two about data-structures and core concepts. At the end of the day, AI is going to be used and will continue to get better. Dev jobs are dying by the day. It truly is.. the end of the world.. for those who do not adapt during these unprecedented times. 
+I gave college a shot at West Virginia University. If you know anything about Morgantown, you can probably understand why I didn't last too long. I came home, got an associate degree in business at community college, then gave IT another shot at Old Dominion.
 
-If you want my hot take, really, we are in end times. Though I love my little AI chatbot, our world is going to change because of it. May God have mercy on us all, whoever that may be to you. Until then, I will be working on my company and local projects, and trying to make a living in this world. If you have a project - paid or unpaid, tap in with me. Best POC is through [my website](https://tidewaterdigitalva.com). 
+Then COVID happened.
 
-Aside from my technical skills, get to know and I can certainly pick your brain with ideas. When I'm not behind a keyboard, I like to support and participate in the local house music scene in my community. I'm lucky to get to play some tracks from time to time. I can probably beat you in golf and maybe pool too, but other than that I'm sure I can find a way to share some stories with you.
+At some point, I realized I was pouring a lot of my hard-earned money into school without getting what I actually needed out of it. So I stopped waiting for a curriculum to teach me and started learning on my own.
 
-Get to know me and let's make something happen.
+During quarantine, I learned to code. Or, more accurately, I learned enough to realize how much there was to learn.
+
+I learned the terminal. Linux. Git. Frameworks. APIs. Databases. Data structures. Networking. Deployment. All the boring stuff that eventually becomes the interesting stuff once you understand how the pieces fit together.
+
+Hell, I still remember learning HTML and thinking I was finally a l33t hacker like I'd imagined during my Xbox days.
+
+It felt like being a kid again.
+
+Ahh... the good old days.
+
+And look at me now.
+
+I've got a decent stack under my belt. Most of my work these days lives somewhere around TypeScript, React, Next.js, Node, PostgreSQL, APIs, integrations, and cloud infrastructure. I've worked in logistics technology, built internal tools and integrations, developed software for local businesses and nonprofits, and now run Tidewater Digital, where I build websites and custom software for organizations around Hampton Roads and beyond.
+
+I still hate memorizing syntax. I probably always will.
+
+What I *do* love is understanding systems — how data moves, where processes break down, why two systems don't talk to each other, and how software can make the whole thing work better. Give me a messy spreadsheet, a repetitive workflow, three disconnected APIs, or a process held together by copy-and-paste and I'm probably going to start thinking about how to fix it.
+
+That's the part of software I actually enjoy.
+
+But in the middle of my fascination with ~~mainly~~ web development — and software engineering in general — here we are in the age of AI.
+
+Do I vibe-code?
+
+Absolutely.
+
+And any developer who tells you they *never* vibe-code is lying and should not be trusted.
+
+There is, however, a massive difference between AI slop generated by someone who has no idea how software works and a developer using AI as leverage while understanding architecture, data structures, state, databases, security, networking, and the fundamentals underneath what gets generated.
+
+AI doesn't eliminate the need to understand software. If anything, it makes that understanding more important. You can generate a shocking amount of code now. The hard part is knowing whether that code is good, whether the architecture makes sense, what is going to break, what shouldn't have been built in the first place, and how all of it fits into a real business.
+
+AI is going to be used. It's going to keep getting better. The way we build software is already changing, and pretending otherwise isn't some noble defense of the craft — it's just refusing to adapt.
+
+Developer jobs are changing with it.
+
+It truly is... the end of the world.
+
+At least for those who refuse to adapt during these unprecedented times.
+
+If you want my actual hot take, we're probably in the end times anyway. Though I love my little AI chatbot, I think this technology is going to change the world in ways none of us fully understand yet.
+
+May God have mercy on us all — whoever that may be to you.
+
+Until then, I'll be building my company, working on local projects, writing software, and trying to make a living in this weird world like everybody else.
+
+If you have a project — paid or unpaid — tap in with me. The best POC is through [my website](https://tidewaterdigitalva.com/).
+
+And software isn't my entire personality.
+
+When I'm not behind a keyboard, I like supporting and participating in the local house music scene. I'm lucky enough to get behind the decks and play some tracks from time to time. I still snowboard whenever mountains and money permit. I can probably beat you in golf, maybe pool too, and if none of that works, I'm sure we can find something to talk about over a drink.
+
+Get to know me.
+
+Let's make something happen.
