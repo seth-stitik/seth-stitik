@@ -21,7 +21,7 @@ Y88b  d88P Y8b.     Y88b.  888  888      Y88b  d88P Y88b.  888 Y88b.  888 888 "8
 
 I was born on the coast of Virginia, just south of Cape Henry. I grew up playing ice hockey and surfing — a weird combo. Later, I ~~fell in love with~~ became obsessed with snowboarding and being in the mountains.
 
-At 13, I was obsessed with learning about exploits and hardware mods for the now-ancient Xbox 360. At 15, I even wrote my first [“publication”](https://www.se7ensins.com/forums/threads/how-to-add-a-computer-fan-to-xbox-360.895555/) — a tutorial on adding computer fans to an Xbox 360 to prevent the infamous RROD. I guess that was my first real hit of programming, hardware, and figuring out how things worked under the hood.
+At 13, I loved learning about exploits and hardware mods for the now-ancient Xbox 360. At 15, I even wrote my first [“publication”](https://www.se7ensins.com/forums/threads/how-to-add-a-computer-fan-to-xbox-360.895555/) — a tutorial on adding computer fans to an Xbox 360 to prevent the infamous RROD. I guess that was my first real hit of programming, hardware, and figuring out how things worked under the hood.
 
 By 18, I wanted to be a professional snowboarder. I was pretty good.
 
